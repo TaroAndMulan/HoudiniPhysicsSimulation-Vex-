@@ -1,4 +1,4 @@
-# 2110514-REALTIME-CG-PHYS
+# Physics simulation in Houdini using Vex scripting language
 
 for PBF1 and PBF2
 download PBFkernel.h and place it into your houdini include folder.
