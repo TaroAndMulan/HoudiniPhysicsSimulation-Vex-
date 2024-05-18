@@ -1,7 +1,8 @@
 # Physics simulation in Houdini using Vex scripting language
+Fluid simulator, Cloth simulator, Softbody, and etc in houdini wrtitten from scratch using Vex.
 
 ##  Information 
-Check  [SubmittedReport.pdf]([https://pages.github.com/](https://github.com/TaroAndMulan/HoudiniPhysicsSimulation-Vex-/blob/main/SubmittedReport.pdf)).
+Check  [SubmittedReport.pdf](https://github.com/TaroAndMulan/HoudiniPhysicsSimulation-Vex-/blob/main/SubmittedReport.pdf)
 
 
 ## Note for fluid 
