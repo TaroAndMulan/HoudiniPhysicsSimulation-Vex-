@@ -16,7 +16,7 @@ Fluid simulator, Cloth simulator, Softbody, and etc in houdini **wrtitten FROM S
 ![image](https://github.com/TaroAndMulan/HoudiniPhysicsSimulation-Vex-/assets/43438601/d4731fed-fc10-437c-96bd-d2dedafe9b5b)
 
 
-## Ellpise constraint
+## Ellipse constraint
 ![image](https://github.com/TaroAndMulan/HoudiniPhysicsSimulation-Vex-/assets/43438601/53d4e959-127c-4452-a846-9c7b4d52b10d)
 
 ## Cloth
